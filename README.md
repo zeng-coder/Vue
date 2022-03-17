@@ -1,6 +1,6 @@
 # ershou
 
-> 666
+校园二手平台系统 Vue + Vant实现
 
 ## Build Setup
 
